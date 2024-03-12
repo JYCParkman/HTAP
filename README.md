@@ -1,7 +1,7 @@
 ## Requirements
 
 ### NodeJS
-随便改东西 保存
+
 Required version : 0.10.22
 
 ## Usage
